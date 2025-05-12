@@ -1,8 +1,24 @@
-# React + Vite
+# Calendar Booking and Scheduling App (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project contains the **frontend** of a calendar-based appointment booking and scheduling application. Users can select a date and time for their appointments and enter relevant details to complete the booking process.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📅 Date picker to choose your desired appointment date  
+- ⏰ Time slot selection for available appointment hours  
+- 📝 Form to input appointment details  
+- 🖥️ Built with a responsive and user-friendly interface
+
+## 🛠️ Tech Stack
+
+- **React** – JavaScript library for building user interfaces  
+- **HTML/CSS** – For layout and styling  
+- **JavaScript** – Core logic and interactivity  
+- *(Add any additional libraries or tools used, e.g., Tailwind, styled-components, etc.)*
+
+## 📦 Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/NithanthSujith/Calendar-Booking-App.git
